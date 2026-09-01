@@ -15,9 +15,16 @@
     "@angular/compiler": "^21.2.0",
     "@angular/core": "^21.2.0",
     "@angular/forms": "^21.2.0",
+    "@angular/localize": "^21.2.22",
     "@angular/platform-browser": "^21.2.0",
     "@angular/router": "^21.2.0",
+    "@ng-bootstrap/ng-bootstrap": "^16.0.0",
+    "@popperjs/core": "^2.11.8",
+    "@tailwindcss/postcss": "^4.3.3",
+    "bootstrap": "^5.3.8",
+    "postcss": "^8.5.26",
     "rxjs": "~7.8.0",
+    "tailwindcss": "^4.3.3",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
